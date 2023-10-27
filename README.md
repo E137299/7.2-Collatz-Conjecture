@@ -27,7 +27,7 @@ Write another class to test your Collatz class. Ask the user for the starting nu
 
 
 
-Extra Challenges
+## Extra Challenges
 
 In your oddValues() method that returns an array of all the odd numbers in the sequence 
 see if you can write the method with only a single if statement
